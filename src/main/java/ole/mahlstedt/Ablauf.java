@@ -1,9 +1,10 @@
 package ole.mahlstedt;
 
-public class main {
+public class Ablauf {
+    Nummern nummern = new Nummern();
 
 public static void main(String[] args){
-System.out.println("hello World");
+
 
 }
 }
